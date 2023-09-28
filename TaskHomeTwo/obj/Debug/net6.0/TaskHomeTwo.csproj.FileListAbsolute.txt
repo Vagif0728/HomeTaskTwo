@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\bin\Debug\net6.0\TaskHomeTwo.exe
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\bin\Debug\net6.0\TaskHomeTwo.deps.json
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\bin\Debug\net6.0\TaskHomeTwo.runtimeconfig.json
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\bin\Debug\net6.0\TaskHomeTwo.dll
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\bin\Debug\net6.0\TaskHomeTwo.pdb
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.AssemblyInfo.cs
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.dll
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\refint\TaskHomeTwo.dll
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.pdb
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\TaskHomeTwo.genruntimeconfig.cache
+C:\Users\User\Desktop\TaskHomeTwo\TaskHomeTwo\obj\Debug\net6.0\ref\TaskHomeTwo.dll
